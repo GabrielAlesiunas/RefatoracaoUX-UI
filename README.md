@@ -1,3 +1,3 @@
-Imagem testando a Classe TesteCalculadora
+Imagem testando a Classe TesteCalculadoraRefatorada
 
-<img width="1366" height="764" alt="TesteCalculadora" src="https://github.com/user-attachments/assets/1cebd4b7-307b-4035-b662-73c1803cd1bf" />
+<img width="1366" height="768" alt="TesteCalculadoraRefatorada" src="https://github.com/user-attachments/assets/f2f801f0-c9af-44ce-80a3-43d97f2ede38" />
